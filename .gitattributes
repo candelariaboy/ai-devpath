@@ -1,0 +1,2 @@
+backend/models/*.joblib filter=lfs diff=lfs merge=lfs -text
+backend/models/final_flan_t5_github_recommender/** filter=lfs diff=lfs merge=lfs -text

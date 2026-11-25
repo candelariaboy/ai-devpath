@@ -1,0 +1,6 @@
+models/final_flan_t5_github_recommender/
+!models/final_flan_t5_github_recommender/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
